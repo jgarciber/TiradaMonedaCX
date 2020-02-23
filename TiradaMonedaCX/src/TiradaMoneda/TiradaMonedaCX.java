@@ -11,6 +11,7 @@ public class TiradaMonedaCX {
 		boolean esCruzDoble = false, esCaraDoble = false;
 		String tirada1;
 		String tirada2;
+		//hola
 		Scanner teclado = new Scanner(System.in);
 		do {
 			System.out.print("Introduce el número de veces que se van a lanzar las monedas (max 50): ");
